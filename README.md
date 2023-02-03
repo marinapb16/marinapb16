@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, welcome to my Github! My name is Marina 👋
 
-<!--
-**marinapb16/marinapb16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Big Data Analytics with a degree in Mathematics and Physics with a passion for data and statistics.
+A couple of facts about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studing for a master's degree in Big Data Analytics at [EDEM](https://edem.eu/master-big-data-analytics/).
+- 🌱 I’m currently learning Python, Docker, SQL, Apache Kafka, Apache Spark, Apache Beam, NiFi, Cassandra, GCP (Google Cloud Platform), Azure, etc.
+- 👯 I’m looking to start my journey into the world of Data Engineering or Data Science/.
+- ⚡ Fun fact: 
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/marinaperezbarber)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My main Repositories:
+
+📁 [EDEM2022](https://github.com/marinapb16/EDEM2022): All my progress during the Master in Big Data at [EDEM](https://edem.eu/master-big-data-analytics/)
