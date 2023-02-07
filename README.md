@@ -7,7 +7,7 @@ A couple of facts about me:
 - 🌱 I’m currently learning Python, Docker, SQL, Apache Kafka, Apache Spark, Apache Beam, NiFi, Cassandra, GCP (Google Cloud Platform), Azure, etc.
 - 👯 I’m looking to start my journey into the world of Data Engineering or Data Science/.
 - ⚡ Fun fact: 
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/marinaperezbarber)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marinaperezbarber/)
 
 
 ## In progress learning Skill Set  🧑‍💻 
