@@ -55,3 +55,7 @@ A couple of facts about me:
 ### My main Repositories:
 
 📁 [EDEM2022](https://github.com/marinapb16/EDEM2022): All my progress during the Master in Big Data at [EDEM](https://edem.eu/master-big-data-analytics/)
+
+📁 [Data Project 1](https://github.com/marinapb16/DATA-PROJECT-1): Our first Data Project during the master
+
+📁 [Data Project 2](https://github.com/marinapb16/DataProject_2): Our second Data Project during the master
